@@ -1,0 +1,11 @@
+h1{
+    margin: 0.8em;
+    border-style: dashed;
+    padding: 0.8em;
+}
+
+h2{
+    margin: 0.5em;
+    border-style: dotted;
+    padding: 0.5em;
+}

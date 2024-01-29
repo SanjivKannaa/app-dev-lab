@@ -1,0 +1,12 @@
+#header{
+    color: blue;
+}
+
+a{
+    text-decoration: none;
+    
+}
+
+a:hover{
+    background-color: yellow;
+}
