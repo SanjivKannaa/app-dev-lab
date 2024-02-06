@@ -1,0 +1,21 @@
+ul {
+    list-style-type: none; 
+    padding: 0; 
+    margin: 0; 
+    display: flex; 
+    border-bottom: 1px solid black; 
+  }
+  
+  
+  li {
+    width: 100px; 
+    text-align: center;  
+    border: 1px solid black; 
+    margin-right: 10px;
+    padding: 10px; 
+  }
+  
+  li:last-child {
+    margin-right: 0;
+  }
+  

@@ -1,0 +1,12 @@
+body{
+  h1, h2 {
+    padding: 0.5em;  
+    border-style: groove; 
+    margin: 0.5em;    
+  }
+  .greenMove {
+    color: green;          
+    margin-top: 25px;      
+    margin-left: 15px;     
+  }
+}
